@@ -1,0 +1,12 @@
+{
+  "name": "nyayagpt-root",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "cd nyayagpt-legal-guide && npm run dev",
+    "build": "cd nyayagpt-legal-guide && npm run build",
+    "build:dev": "cd nyayagpt-legal-guide && npm run build:dev",
+    "preview": "cd nyayagpt-legal-guide && npm run preview",
+    "install-sub": "cd nyayagpt-legal-guide && npm install"
+  }
+}
